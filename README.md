@@ -24,17 +24,7 @@ dr equals the difference in ratings plus 100 points for a team playing at home.
 
 Sample Winning Expectancies
 
-Difference in Ratings //	Higher Rated	//Lower Rated
-0	0.500	0.500
-10	0.514	0.486
-20	0.529	0.471
-30	0.543	0.457
-40	0.557	0.443
-50	0.571	0.429
-60	0.585	0.415
-70	0.599	0.401
-80	0.613	0.387
-90	0.627	0.373
+![image](https://user-images.githubusercontent.com/40691316/215255175-0600d843-cca8-46bd-83c5-9ad2dcc945b6.png)
 
 
 My idea was to assess the reliability of Elo ratings for the group stage in the World Cup and identify any biases associated with them. I was curious to see if it was possible to predict surprises like for example Japan vs Geramany.
